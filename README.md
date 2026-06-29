@@ -76,7 +76,7 @@ This approach emphasizes understanding **why** a vulnerability exists rather tha
 
 ## 📄 Research Paper
 
-The complete research portfolio is available in this repository.
+The complete research portfolio is available below.
 
 **➡️ [Download XSS_Research_Portfolio.pdf](./XSS_Research_Portfolio.pdf)**
 
