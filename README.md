@@ -73,6 +73,17 @@ This approach emphasizes understanding **why** a vulnerability exists rather tha
 * Secure Development Practices
 
 ---
+## Research Objectives
+
+This research was conducted to explore Cross-Site Scripting from an engineering perspective rather than treating it as a collection of payloads.
+
+The primary objectives were:
+
+- Understand browser parsing and execution behavior
+- Analyze how different XSS variants originate
+- Study modern browser security mechanisms
+- Explore secure coding and defensive strategies
+- Build a structured methodology for vulnerability analysis and remediation
 
 ## 📄 Research Paper
 
